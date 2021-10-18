@@ -7,7 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Atividade GitHub Actions 
+        <a
+          className="App-link"
+          href="https://github.com/FelipeTorress/aula_actions"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Felipe Torres
+        </a>
         </p>
         <a
           className="App-link"

@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Felipe Torres
+          - Felipe Torres
         </a>
         </p>
         <a
